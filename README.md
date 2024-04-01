@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.instagram.com/tonii.playps4">
-    <img src="https://img.shields.io/badge/instagram-blue?style=for-the-badge&logo=instagram&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
 
