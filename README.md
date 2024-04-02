@@ -8,11 +8,11 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-<div id="badges" align="center" style="text-decoration: none">
-  <a href="https://www.facebook.com/tonii.playps4">
+<div id="badges" align="center">
+  <a href="https://www.facebook.com/tonii.playps4" style="text-decoration: none">
     <img src="https://img.shields.io/badge/facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="FaceBook Badge"/>
   </a>
-  <a href="https://www.instagram.com/tonii.playps4">
+  <a href="https://www.instagram.com/tonii.playps4" style="text-decoration: none">
     <img src="https://img.shields.io/badge/instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
 </div>
