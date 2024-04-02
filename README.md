@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @toniiplaycode
+- 👋 Hi, I’m Toniiplaycode
 - 👀 I’m interested in Technology, Life Skill, Improve Yourself, Lifestyle
 - 🌱 I’m currently learning WEB developer
 - 📫 How to contact me:
