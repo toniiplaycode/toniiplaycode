@@ -6,7 +6,7 @@
 
 <div id="header" align="center">
   <img 
-    style={border-radius: 5px;}
+    style={border-radius: 50%;}
     src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXBzYnlwcnNqb2dpbXpxdmFwdm02dTUzcjI1N205cjVpYnVwejFhYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 </div>
 
