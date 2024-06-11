@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Toniiplaycode
 - 👀 I’m interested in Technology, Life Skill, Improve Yourself, Lifestyle
 - 🌱 I’m currently learning WEB developer
-- 📫 How to contact me:
-- Email: toan13022017@gmail.com
+- 📧 toan13022017@gmail.com
 
 <div id="header" align="center">
   <img 
