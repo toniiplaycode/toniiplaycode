@@ -8,17 +8,6 @@
     src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXBzYnlwcnNqb2dpbXpxdmFwdm02dTUzcjI1N205cjVpYnVwejFhYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 </div>
 
-<div id="badges" align="center">
-  <a href="https://www.facebook.com/tonii.playps4" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="FaceBook Badge"/>
-  </a>
-  <a href="https://www.instagram.com/tonii.playps4" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
-</div>
-
-<hr/>
-
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
