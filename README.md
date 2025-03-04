@@ -2,7 +2,7 @@
   <h3>
     Hi, I’m THANH TOAN
   <br/>
-    toan13022017@gmail.com
+    A software enthusiast.
   </h3>
   <img 
     src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXBzYnlwcnNqb2dpbXpxdmFwdm02dTUzcjI1N205cjVpYnVwejFhYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
@@ -29,6 +29,10 @@
 <img alt="postman" src="https://img.shields.io/badge/-Postman-00C7B7?style=flat-square&logo=postman&logoColor=white" height="25px"/>
 <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" height="25px" />
 <img alt="MongoDB Atlas" src="https://img.shields.io/badge/MongoDB_Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white" height="25px" />
+</div>
+
+<div align="center">
+  <h4>📫 Contact me: <a href="mailto:toan13022017@gmail.com">toan13022017@gmail.com</a></h4>
 </div>
 
 <!---
